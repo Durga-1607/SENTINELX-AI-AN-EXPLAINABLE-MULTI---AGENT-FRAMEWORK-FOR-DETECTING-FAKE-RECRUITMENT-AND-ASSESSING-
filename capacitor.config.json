@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.fraudshield",
+  "appName": "FraudShield AI",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
